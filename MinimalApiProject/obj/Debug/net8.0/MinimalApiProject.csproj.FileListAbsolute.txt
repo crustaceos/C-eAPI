@@ -10,6 +10,7 @@ C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.Assembly
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfo.cs
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.CoreCompileInputs.cache
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.sourcelink.json
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\staticwebassets.build.json
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\staticwebassets.development.json
 C:\AULA C#\Solucao\MinimalApiProject\obj\Debug\net8.0\staticwebassets\msbuild.MinimalApiProject.Microsoft.AspNetCore.StaticWebAssets.props
