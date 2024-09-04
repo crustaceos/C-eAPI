@@ -11,6 +11,7 @@ public class Produto
         Id = Guid.NewGuid().ToString();
         CriadoEm = DateTime.Now;
     }
+    
     //C# GETTERS E SETTERS
     public double Preco{get; set;}
 

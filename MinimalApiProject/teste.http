@@ -1,1 +1,8 @@
+### TESTAR A RAIZ DA API
 GET http://localhost:5287
+
+### TESTAR PRODUTOS
+GET http://localhost:5287/produtos/listar
+
+### CADASTRAR PRODUTO
+POST http://localhost:5287/produtos/cadastrar/refri
